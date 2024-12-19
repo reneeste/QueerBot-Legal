@@ -1,6 +1,6 @@
 # QueerBot
 
-A Discord bot that kicks off a fun weekly writing challenge for the [Queer Quill](https://discord.gg/MBSZcwmvVk) community, combining plot ideas and plot twists.
+A Discord bot that kicks off a fun weekly writing challenge and daily writing sprints for the [Queer Quill](https://discord.gg/MBSZcwmvVk) community.
 
 Developed by **Renee Steinberg**.
   
